@@ -1,0 +1,15 @@
+release/authwindow.o
+release/choosewindow.o
+release/fizfacewindow.o
+release/idchoose.o
+release/main.o
+release/sucwindow.o
+release/urfacewindow.o
+release/widget.o
+release/moc_authwindow.o
+release/moc_choosewindow.o
+release/moc_fizfacewindow.o
+release/moc_idchoose.o
+release/moc_sucwindow.o
+release/moc_urfacewindow.o
+release/moc_widget.o

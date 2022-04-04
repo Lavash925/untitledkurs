@@ -1,0 +1,15 @@
+debug/authwindow.o
+debug/choosewindow.o
+debug/fizfacewindow.o
+debug/idchoose.o
+debug/main.o
+debug/sucwindow.o
+debug/urfacewindow.o
+debug/widget.o
+debug/moc_authwindow.o
+debug/moc_choosewindow.o
+debug/moc_fizfacewindow.o
+debug/moc_idchoose.o
+debug/moc_sucwindow.o
+debug/moc_urfacewindow.o
+debug/moc_widget.o
